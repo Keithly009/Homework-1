@@ -1,9 +1,9 @@
 # Code Refactor Starter Code
-# Rengoku-Likes-Donuts
+# CSS-Refactor
 
 ## Description
 
-In terms of the code and what I had done with it, I had fixed some minor issues regarding the title and then proceeded to remove the redundancy that was present amongst the code to make it as optimized as possible. 
+A website that details in the use of the internet such as using search engines, seeing what the type of reputation that your brand might have on consumers and how best to market it on social media. 
 
 ## Table of Contents (Optional)
 
